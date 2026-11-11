@@ -14,7 +14,7 @@
 I build SAP applications on **SAP BTP end to end**: CDS data models and OData V4 services in **SAP CAP (Node.js)**, with **SAP Fiori Elements** and freestyle **SAPUI5** frontends on top.
 
 - 💼 Almost four years at **Capgemini**, from intern to SAP Application Consultant, delivering production apps on SAP BTP
-- 🏢 Since September 2026, running my own company, **Mayevitch IT Solutions**, taking on SAP BTP projects
+- 🏢 Since September 2026, I've been looking for SAP BTP projects
 - 🎓 **SAP certified** in SAP CAP and SAP Fiori development, and a **Professional Scrum Master II**
 - 🤝 Almost ten years in international B2B sales and running my own businesses before IT, so I start from the business process behind an app
 <!-- - 🌱 Currently learning **ABAP Cloud** and **RAP** -->
